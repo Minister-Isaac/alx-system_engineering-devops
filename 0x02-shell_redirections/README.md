@@ -1,1 +1,1 @@
-Shell Redirections
+display the content of the file
